@@ -1,6 +1,5 @@
 
 function analyzeArray(array) {
-const object = {};
 const length = array.length;
 const min = Math.min(...array);
 const max = Math.max(...array);
